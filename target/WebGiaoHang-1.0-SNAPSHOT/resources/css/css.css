@@ -1,0 +1,16 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Sep 3, 2022, 3:50:54 PM
+    Author     : Admin
+*/
+.navbar{
+    height: 70px;
+}
+
+.container1{
+    padding: 30px 20px;
+    min-height: calc(100vh - 70px - 120px);
+}
